@@ -1,0 +1,105 @@
+body {
+    font-family: 'Krona One', sans-serif;
+    background-color: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: mediumblue;
+}
+
+.boxes {
+    margin: 100px;
+    padding: 100px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: dodgerblue;
+}
+
+#box2 {
+    background-color: firebrick;
+    /* position: absolute;
+    left: 731px;
+    bottom: 567px; */
+    /* left: 5em;
+    bottom: 5em; */
+}
+
+#box3 {
+    background-color: fuchsia;
+}
+
+#box4 {
+    background-color: hotpink;
+}
+
+.img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: lime;
+    position: absolute;
+    left: 276px;
+}
+
+h1 {
+    color: sienna;
+}
+
+.original {
+    color: teal;
+}
+
+.additional {
+    color: tomato;
+}
+
+#show1 {
+  color: red;  
+}
+
+#show2 {
+color: rosybrown;
+}
+
+#show3 {
+color: salmon;
+}
+
+#show4 {
+color: skyblue;
+}
+
+#show5 {
+color: springgreen;
+}
+
+ul {
+    color: aqua;
+}
+
+.star {
+    color: burlywood;
+}
+
+#wars {
+    color: cornflowerblue;
+}
+
+.idk {
+    border: 2px solid black;
+}
